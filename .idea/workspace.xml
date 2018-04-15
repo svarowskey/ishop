@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6517701d-165f-4aee-8cf8-7ae5c038753b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/components/Db.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/db_params.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/models/News.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/template/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/template/images/img07.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/template/images/pic01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/template/images/pic02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/views/news/archive.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/views/news/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/views/news/view.php" />
-      <change beforePath="$PROJECT_DIR$/_windows/git.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_windows/laf.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/code.style.schemes.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/components/Router.php" afterPath="$PROJECT_DIR$/components/Router.php" />
-      <change beforePath="$PROJECT_DIR$/config/routes.php" afterPath="$PROJECT_DIR$/config/routes.php" />
-      <change beforePath="$PROJECT_DIR$/controllers/ArticleController.php" afterPath="$PROJECT_DIR$/controllers/ArticleController.php" />
-      <change beforePath="$PROJECT_DIR$/controllers/NewsController.php" afterPath="$PROJECT_DIR$/controllers/NewsController.php" />
-      <change beforePath="$PROJECT_DIR$/controllers/ProductController.php" afterPath="$PROJECT_DIR$/controllers/ProductController.php" />
-      <change beforePath="$PROJECT_DIR$/databaseSettings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vcs.xml" afterPath="" />
+    <list default="true" id="6517701d-165f-4aee-8cf8-7ae5c038753b" name="Default" comment="change files without lesson 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/codestyles/Default.xml" afterPath="" />
     </list>
     <ignored path=".idea/" />
     <ignored path="code.style.schemes.xml" />
@@ -111,8 +87,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,6 +98,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -175,11 +152,6 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="codestyles" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
@@ -373,7 +345,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523764540861</updated>
-      <workItem from="1523764541971" duration="5035000" />
+      <workItem from="1523764541971" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="!">
       <created>1523765673259</created>
@@ -389,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523765834671</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change files without lesson 2">
+      <created>1523770771070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523770771070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5035000" />
+    <option name="totallyTimeSpent" value="5195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,7 +418,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="!" />
     <MESSAGE value="change files" />
-    <option name="LAST_COMMIT_MESSAGE" value="change files" />
+    <MESSAGE value="change files without lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="change files without lesson 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -546,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
