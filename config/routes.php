@@ -5,3 +5,4 @@
         'products'      => 'product/list',  //actionList в ProductController
         'news/archive'  => 'news/archive',
     );
+
